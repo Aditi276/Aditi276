@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aditi Juyal, a final-year B.Tech Computer Science and Engineering student passionate about building AI-powered applications, full-stack solutions, and scalable backend systems.<br>I’m looking to collaborate on Open Source, AI/ML, Backend Development, and Full-Stack projects.<br>I’m looking for help with Distributed Systems, System Design, and Large-Scale Machine Learning.<br>I’m currently learning Data Structures & Algorithms, System Design, Advanced Machine Learning, and Cloud Technologies (AWS).<br>Ask me about Python, C++, Flask, React, Machine Learning, REST APIs, SQL, and Git.<br> Fun fact: I enjoy turning real-world problems into AI-powered applications and believe the best way to learn is by building projects.
+Hi, I'm Aditi Juyal, a final-year B.Tech Computer Science and Engineering student passionate about building AI-powered applications, full-stack solutions, and scalable backend systems.<br>I’m looking to collaborate on Open Source, AI/ML, Backend Development, and Full-Stack projects.<br>I’m looking for help with Distributed Systems, System Design, and Large-Scale Machine Learning.<br>I’m currently learning Data Structures & Algorithms, System Design, Advanced Machine Learning, and Cloud Technologies (AWS).<br>Ask me about Python, C++, Flask, React, Machine Learning, REST APIs and SQL.
 
 
 ## 🌐 Socials:
